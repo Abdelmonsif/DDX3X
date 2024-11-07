@@ -2,7 +2,7 @@
 Python Custom scripts related to the manuscript entitled "DDX3X acts as a selective dual switch regulator of mRNA translation in ER stress"
 
 
-This work from Dr. Vourekas lab at ## LSU
+This work from Dr. Vourekas lab at Louisiana State University
 
 Lab website:
 https://faculty.lsu.edu/avourekas/index.php
